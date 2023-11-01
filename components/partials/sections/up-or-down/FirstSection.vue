@@ -2,7 +2,7 @@
     <section class=" w-full h-full relative">
         <!--  -->
         <div class=" w-full relative">
-            <img src="images/up-or-down/hero.webp" class=" w-full  h-[50.9375rem] sm:h-[51.3125rem] lg:h-[69.313rem]  object-cover" alt="hero">
+            <img src="/images/up-or-down/hero.webp" class=" w-full  h-[50.9375rem] sm:h-[51.3125rem] lg:h-[69.313rem]  object-cover" alt="hero">
             <div class="  w-full h-full  absolute top-[6rem] sm:top-[8rem] lg:top-[12.8rem] left-0">
                 <div class="max-w-[32.90744rem]  mx-auto flex flex-col items-center space-y-0 sm:space-y-5">
                     <p class=" text-white font-inter font-extrabold text-[2.25538rem] sm:text-[5rem] text-center leading-[2rem] sm:leading-[4.6rem] relative z-20  ">
