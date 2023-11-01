@@ -85,6 +85,19 @@
                         </div>
                       
                     </div>
+
+                    <div class=" w-full p-4 bg-[#1B2128] flex items-center justify-between rounded-[0.625rem]">
+                        <div class=" flex items-center space-x-2">
+                            <img src="/images/up-or-down/discord.png" alt="">
+                            <div class=" flex flex-col items-start space-y-2">
+                                <span class=" text-white font-inter text-lg font-bold">Join our Awesome Community with 24/7 Live support</span>
+                                <span class=" text-white font-inter text-[0.75rem] font-normal">Share your wins, seek support, vote on updates & join daily promotions!</span>
+                            </div>
+                        </div>
+                        <button class=" text-[0.875rem] text-white font-bold border border-white px-4 py-3 rounded-[0.1rem] hover:rounded-lg duration-200">
+                            Join our Discord
+                        </button>
+                    </div>
                 </div>
         </div>
     </div>
