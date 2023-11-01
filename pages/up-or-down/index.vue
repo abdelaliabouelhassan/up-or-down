@@ -1,7 +1,7 @@
 <template>
     <div class=" w-full ">
         <FirstSectionVue />
-       <div class=" w-full pt-[25.5rem]">
+       <div class=" w-full pt-[5rem] sm:pt-[10rem] md:pt-[25.5rem]">
          <SecondSectionVue />
        </div>
     </div>
