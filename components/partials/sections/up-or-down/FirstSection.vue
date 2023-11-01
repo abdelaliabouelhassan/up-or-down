@@ -9,7 +9,7 @@
                         <span>Up</span> <span class=" text-[1.12769rem] sm:text-[2.5rem]">or</span>
                         <br>
                         <span class=" pl-5">Down</span>
-                   </p>
+                    </p>
                   <p class=" text-white font-inter text-[0.56381rem] sm:text-xl font-medium relative z-20 lg:pt-14 pt-4 sm:pt-0  ">
                     Bet on the price of bitcoin going up or down
                   </p>
