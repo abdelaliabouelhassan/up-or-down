@@ -70,7 +70,7 @@
                             <img  src="/images/up-or-down/Ellipse5.png" class=" m-auto" alt="">
                            </div>
                         </div>
-                          <div class=" md:col-span-3 relative w-full bg-[#1B2128] overflow-hidden box rounded-[0.625rem] h-[16.5rem] px-8  py-8 flex flex-col items-center justify-between">
+                          <div class=" md:col-span-3 relative w-full bg-[#1B2128] overflow-hidden box rounded-[0.625rem] h-[16.5rem] px-4  py-8 flex flex-col items-center justify-between">
                             <div class=" flex flex-col items-center space-y-2 relative z-20">
                                 <h2 class=" text-white font-inter font-extrabold text-xl">Supported Wallets</h2>
                             </div>

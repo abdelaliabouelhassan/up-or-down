@@ -1,14 +1,16 @@
 <template>
     <div class=" w-full ">
-        <FirstSectionVue />
+        <FirstSection />
        <div class=" w-full pt-[5rem] sm:pt-[10rem] md:pt-[25.5rem]">
-         <SecondSectionVue />
+         <SecondSection />
        </div>
+       <ThirdSection />
     </div>
 </template>
 
 
 <script setup>
- import FirstSectionVue from "@/components/partials/sections/up-or-down/FirstSection.vue";
- import SecondSectionVue from "@/components/partials/sections/up-or-down/SecondSection.vue";
+ import FirstSection from "@/components/partials/sections/up-or-down/FirstSection.vue";
+ import SecondSection from "@/components/partials/sections/up-or-down/SecondSection.vue";
+ import ThirdSection from "@/components/partials/sections/up-or-down/ThirdSection.vue";
 </script>
