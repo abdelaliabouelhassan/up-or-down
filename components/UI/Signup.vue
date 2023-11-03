@@ -66,7 +66,7 @@
 
 
 <script setup>
- import PromotionCard from "@/components/UI/PromotionCard.vue"
+ 
 
  const show = ref(false)
 
