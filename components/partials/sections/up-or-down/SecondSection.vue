@@ -74,8 +74,19 @@
                             <div class=" flex flex-col items-center space-y-2 relative z-20">
                                 <h2 class=" text-white font-inter font-extrabold text-xl">Supported Wallets</h2>
                             </div>
-                           <div class=" w-full relative z-20 flex max-w-[26.25rem]">
-                            <img src="/images/up-or-down/coins.png" class=" w-full h-[5.8125rem] " alt="">
+                           <div class=" w-full relative z-20 flex max-w-[26.25rem]  items-start justify-between " >
+                                <div class=" flex flex-col items-center space-y-3">
+                                    <img src="/images/up-or-down/coinbase-wallet-logo.png" alt="">
+                                    <span class=" text-white font-inter text-[0.75rem]">Coinbase Wallet</span>
+                                </div>
+                                 <div class=" flex flex-col items-center space-y-3">
+                                    <img src="/images/up-or-down/TWT.png" alt="">
+                                    <span class=" text-white font-inter text-[0.75rem]">TrustWallet</span>
+                                </div>
+                                 <div class=" flex flex-col items-center space-y-3">
+                                    <img src="/images/up-or-down/MetaMask_Fox.png" alt="">
+                                    <span class=" text-white font-inter text-[0.75rem]">MetaMask Wallet</span>
+                                </div>
                            </div>
 
                            

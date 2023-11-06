@@ -19,7 +19,7 @@
         class="overflow-hidden rounded-xl"
         width="100%"
         height="100%"
-        src="https://upordown.bitbloxrgs.com?id=17&subscriptionKey=PIoEaXgGypHeBRTDhDkrsBUCBhCoXkcFoIXspGqUjRPz&token=test1"
+        :src="'https://upordown.bitbloxrgs.com?id=17&subscriptionKey=PIoEaXgGypHeBRTDhDkrsBUCBhCoXkcFoIXspGqUjRPz&token=' + token"
         title=""
         style="border: unset"
         >
@@ -42,6 +42,7 @@
 
 <script setup>
  const selectedGame = ref(0)
+ const token = Math.random()
 
  const selectGame = (index) => {
     selectedGame.value = index
